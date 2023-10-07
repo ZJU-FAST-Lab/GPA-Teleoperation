@@ -18,13 +18,13 @@ A gaze enhanced perception-aware assistive teleoperation framework.
 Aerial Teleoperation](https://ieeexplore.ieee.org/document/9720920), Qianhao Wang*, Botao He*, Zhiren Xun and Fei Gao, Published in IEEE Robotics and Automation Letters (RAL).
 
 <p align="center">
-    <img src="assets/overview.gif" width="800"/>
+    <img src="assets/overview.gif" width="600"/>
 </p>
 <p align="center">
-    <img src="assets/indoor.gif" width="800"/>
+    <img src="assets/indoor.gif" width="600"/>
 </p>
 <p align="center">
-    <img src="assets/outdoor.gif" width="800"/>
+    <img src="assets/outdoor.gif" width="600"/>
 </p>
 
 ## 1. Setup
