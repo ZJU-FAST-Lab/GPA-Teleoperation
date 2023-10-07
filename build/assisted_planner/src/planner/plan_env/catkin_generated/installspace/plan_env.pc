@@ -1,0 +1,8 @@
+prefix=/home/bottle/hbt_ws/GPA_Teleoperation/install
+
+Name: plan_env
+Description: Description of plan_env
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lplan_env
+Requires: roscpp std_msgs

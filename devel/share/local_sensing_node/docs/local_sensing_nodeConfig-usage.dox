@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="local_sensing_node" pkg="local_sensing_node" type="local_sensing_node">
+  <param name="tx" type="double" value="0.0" />
+  <param name="ty" type="double" value="0.0" />
+  <param name="tz" type="double" value="0.0" />
+  <param name="axis_x" type="double" value="0.0" />
+  <param name="axis_y" type="double" value="0.0" />
+  <param name="axis_z" type="double" value="0.0" />
+</node>
+\endverbatim
+

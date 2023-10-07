@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libdepth_render_cuda.so -o /home/bottle/hbt_ws/GPA_Teleoperation/devel/lib/libdepth_render_cuda.so CMakeFiles/depth_render_cuda.dir/src/depth_render_cuda_generated_depth_render.cu.o  /usr/local/cuda-12.2/lib64/libcudart_static.a -lpthread -ldl -lrt 

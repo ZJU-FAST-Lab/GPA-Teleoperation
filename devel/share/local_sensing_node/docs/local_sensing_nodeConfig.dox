@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~tx" : \b [double] tx min: -1000.0, default: 0.0, max: 1000.0
+- \b "~ty" : \b [double] ty min: -1000.0, default: 0.0, max: 1000.0
+- \b "~tz" : \b [double] tz min: -1000.0, default: 0.0, max: 1000.0
+- \b "~axis_x" : \b [double] axis_x min: -360.0, default: 0.0, max: 360.0
+- \b "~axis_y" : \b [double] axis_y min: -360.0, default: 0.0, max: 360.0
+- \b "~axis_z" : \b [double] axis_z min: -360.0, default: 0.0, max: 360.0
+

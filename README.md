@@ -65,6 +65,9 @@ source devel/setup.sh
 
 ```
 roslaunch gpa_teleop sim.launch
+
+# open a new terminal under the same directory
+python3 src/gaze_sim/gaze_sim.py
 ```
 
 Our GUI provides gaze simulation using the mouse. The gif below shows a demo that using mouse to indicate the human intention. 

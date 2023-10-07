@@ -1,0 +1,8 @@
+prefix=/home/bottle/hbt_ws/GPA_Teleoperation/install
+
+Name: mockamap
+Description: Description of mockamap
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp pcl_ros pcl_conversions

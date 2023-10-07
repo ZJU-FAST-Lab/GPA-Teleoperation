@@ -1,0 +1,8 @@
+prefix=/home/bottle/hbt_ws/GPA_Teleoperation/devel
+
+Name: pose_utils
+Description: Description of pose_utils
+Version: 0.0.0
+Cflags: -I/home/bottle/hbt_ws/GPA_Teleoperation/src/assisted_planner/src/Utils/pose_utils/include
+Libs: -L${prefix}/lib -lpose_utils
+Requires: 

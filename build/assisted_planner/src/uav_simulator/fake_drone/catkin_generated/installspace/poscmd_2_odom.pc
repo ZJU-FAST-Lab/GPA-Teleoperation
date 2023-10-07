@@ -1,0 +1,8 @@
+prefix=/home/bottle/hbt_ws/GPA_Teleoperation/install
+
+Name: poscmd_2_odom
+Description: Description of poscmd_2_odom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
