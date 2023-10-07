@@ -3,7 +3,7 @@ A gaze enhanced perception-aware assistive teleoperation framework.
 
 <a href="https://www.youtube.com/watch?v=WYujLePQwB8" target="blank">
   <p align="center">
-    <img src="assets/cover.jpg" width="500"/>
+    <img src="assets/cover.jpg" width="800"/>
   </p>
 </a>
 
@@ -18,13 +18,13 @@ A gaze enhanced perception-aware assistive teleoperation framework.
 Aerial Teleoperation](https://ieeexplore.ieee.org/document/9720920), Qianhao Wang*, Botao He*, Zhiren Xun and Fei Gao, Published in IEEE Robotics and Automation Letters (RAL).
 
 <p align="center">
-    <img src="assets/overview.gif" width="500"/>
+    <img src="assets/overview.gif" width="800"/>
 </p>
 <p align="center">
-    <img src="assets/indoor.gif" width="500"/>
+    <img src="assets/indoor.gif" width="800"/>
 </p>
 <p align="center">
-    <img src="assets/outdoor.gif" width="500"/>
+    <img src="assets/outdoor.gif" width="800"/>
 </p>
 
 ## 1. Setup
