@@ -1,8 +1,0 @@
-prefix=/home/bottle/hbt_ws/GPA_Teleoperation/install
-
-Name: topo_path_search
-Description: Description of topo_path_search
-Version: 0.0.0
-Cflags: -I${prefix}/include -I/usr/include/eigen3
-Libs: -L${prefix}/lib -ltopo_path_search
-Requires: plan_env

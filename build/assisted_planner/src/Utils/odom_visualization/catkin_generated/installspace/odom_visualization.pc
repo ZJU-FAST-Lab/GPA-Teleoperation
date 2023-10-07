@@ -1,8 +1,0 @@
-prefix=/home/bottle/hbt_ws/GPA_Teleoperation/install
-
-Name: odom_visualization
-Description: Description of odom_visualization
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

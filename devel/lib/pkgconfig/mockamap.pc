@@ -1,8 +1,0 @@
-prefix=/home/bottle/hbt_ws/GPA_Teleoperation/devel
-
-Name: mockamap
-Description: Description of mockamap
-Version: 0.1.0
-Cflags: -I/home/bottle/hbt_ws/GPA_Teleoperation/src/assisted_planner/src/uav_simulator/mockamap/include
-Libs: -L${prefix}/lib 
-Requires: roscpp pcl_ros pcl_conversions

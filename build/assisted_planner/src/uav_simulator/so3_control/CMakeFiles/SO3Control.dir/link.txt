@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -std=c++11 -O3 -Wall -g  -shared -Wl,-soname,libSO3Control.so -o /home/bottle/hbt_ws/GPA_Teleoperation/devel/lib/libSO3Control.so CMakeFiles/SO3Control.dir/src/SO3Control.cpp.o 

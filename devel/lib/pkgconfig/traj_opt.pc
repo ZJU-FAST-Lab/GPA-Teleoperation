@@ -1,8 +1,0 @@
-prefix=/home/bottle/hbt_ws/GPA_Teleoperation/devel
-
-Name: traj_opt
-Description: Description of traj_opt
-Version: 0.0.0
-Cflags: -I/home/bottle/hbt_ws/GPA_Teleoperation/src/assisted_planner/src/planner/traj_opt/include
-Libs: -L${prefix}/lib -ltraj_opt
-Requires: plan_env

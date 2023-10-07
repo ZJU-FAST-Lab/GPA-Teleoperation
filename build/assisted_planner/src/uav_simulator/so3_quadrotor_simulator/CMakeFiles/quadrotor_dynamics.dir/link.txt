@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -std=c++11 -O3 -Wall -g  -shared -Wl,-soname,libquadrotor_dynamics.so -o /home/bottle/hbt_ws/GPA_Teleoperation/devel/lib/libquadrotor_dynamics.so CMakeFiles/quadrotor_dynamics.dir/src/dynamics/Quadrotor.cpp.o 
