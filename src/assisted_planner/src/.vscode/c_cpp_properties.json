@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/drone_detect/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/plan_manage/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/uav_simulator/mockamap/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/path_searching/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/plan_env/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/Utils/pose_utils/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/Utils/quadrotor_msgs/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/Utils/selected_points_publisher-master/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/uav_simulator/so3_control/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/uav_simulator/so3_quadrotor_simulator/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/topo_path_search/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/traj_opt/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/planner/traj_utils/include/**",
+                "/home/dwyane/ANOW/code/eye_tracker/assisted_planner/src/Utils/uav_utils/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}

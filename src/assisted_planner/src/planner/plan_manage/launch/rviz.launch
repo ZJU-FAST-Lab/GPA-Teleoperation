@@ -1,0 +1,3 @@
+<launch>
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find gpa_teleop)/launch/default.rviz" required="true" />
+</launch>
