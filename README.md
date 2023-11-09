@@ -82,8 +82,6 @@ Note: Due to the display updates in some versions of OpenCV 4, you may need to f
 ## 3. Acknowledgement
 We use [**MINCO**](https://github.com/ZJU-FAST-Lab/GCOPTER) as our trajectory representation.
 
-We use [**EGO-Planner-v2**](https://github.com/ZJU-FAST-Lab/EGO-Planner-v2) as the target drone planner.
-
 ## 4. Citation
 ```bibtex
 @ARTICLE{9720920,
