@@ -9,6 +9,8 @@ import threading
 import os
 import signal
 
+
+
 scroll_trigger = 0
 speed = 0.5
 bridge = CvBridge()
